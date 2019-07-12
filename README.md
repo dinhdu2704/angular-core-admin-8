@@ -1,1 +1,1 @@
-# angular-core-admin-8
+Angular ng-pi-admin 8 core
